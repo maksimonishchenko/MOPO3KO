@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{34835555-6611-D5D4-04A7-7907FC627DB8}") = "Starving frog04-04-12", "Assembly-CSharp-firstpass-vs.csproj", "{86C75260-91E9-D814-1A1C-8842F8C3FCAB}"
+EndProject
+Project("{34835555-6611-D5D4-04A7-7907FC627DB8}") = "Starving frog04-04-12", "Assembly-CSharp-vs.csproj", "{56AAE3FA-383A-B503-4255-C57025B54231}"
+EndProject
+Project("{34835555-6611-D5D4-04A7-7907FC627DB8}") = "Starving frog04-04-12", "Assembly-CSharp-Editor-vs.csproj", "{F79C1546-2A0B-3217-7858-DAF00A0484BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C75260-91E9-D814-1A1C-8842F8C3FCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C75260-91E9-D814-1A1C-8842F8C3FCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C75260-91E9-D814-1A1C-8842F8C3FCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C75260-91E9-D814-1A1C-8842F8C3FCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AAE3FA-383A-B503-4255-C57025B54231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AAE3FA-383A-B503-4255-C57025B54231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AAE3FA-383A-B503-4255-C57025B54231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AAE3FA-383A-B503-4255-C57025B54231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79C1546-2A0B-3217-7858-DAF00A0484BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79C1546-2A0B-3217-7858-DAF00A0484BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79C1546-2A0B-3217-7858-DAF00A0484BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79C1546-2A0B-3217-7858-DAF00A0484BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

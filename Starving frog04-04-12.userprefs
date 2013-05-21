@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HeronManager.js">
+    <Files>
+      <File FileName="Assets\Scripts\HeronManager.js" Line="222" Column="5" />
+      <File FileName="Assets\Plugins\Sprite Scripts\Support\SpriteBase.cs" Line="1574" Column="25" />
+      <File FileName="Assets\Plugins\Sprite Scripts\Support\SpriteRoot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
